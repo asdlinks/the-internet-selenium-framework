@@ -1,0 +1,6 @@
+com\example\framework\pages\BasePage.class
+com\example\framework\DriverManager.class
+com\example\framework\pages\DynamicLoadingPage.class
+com\example\framework\pages\JavaScriptAlertsPage.class
+com\example\framework\pages\MultipleWindowsPage.class
+com\example\framework\pages\ShadowDOMPage.class
